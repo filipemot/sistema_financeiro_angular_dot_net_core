@@ -1,0 +1,9 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/Financeiro_2023/Domain/obj
+/Financeiro_2023/Entities/obj
+/Financeiro_2023/Helpers/obj
+/Financeiro_2023/Infra/obj
+/Financeiro_2023/WebApi/obj
